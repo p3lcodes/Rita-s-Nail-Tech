@@ -1,0 +1,7 @@
+{
+  "name": "Rita’s Nail Salon Nairobi",
+  "description": "A premium, elegant website for Rita’s Nail Salon in Nairobi, Kenya, offering manicures, pedicures, and professional nail art.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
